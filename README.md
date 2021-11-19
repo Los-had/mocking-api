@@ -1,5 +1,5 @@
 # fake-data-generator-api 
-generate some data
+generate some random data
 
 ## installing and using - API
 
