@@ -25,6 +25,7 @@ func main() {
 
 			return
 		}
+		w.Header().Set("Content-Type", "application/json")		
 
 		name := GenerateName()
 		age := GenerateAge()
