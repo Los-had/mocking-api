@@ -31,6 +31,8 @@ to stop the server(localhost) press <kbd>Ctrl</kbd><kbd>+</kbd><kbd>C</kbd> or <
 
 ## installing and using - CLIENT
 
+***Warning: to use the client you have to run the api at the sam time***
+
 clone this repo:
 
 ```
