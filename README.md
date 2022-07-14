@@ -1,4 +1,4 @@
-# fake-data-generator-api 
+# mocking-api 
 generate some random data
 
 ## installing and using - API
@@ -11,7 +11,7 @@ $ git clone <repo url>
 
 enter in the app folder and compile:
 ```
-$ cd fake-data-generator-api
+$ cd mocking-api
 $ go build main.go
 ```
 
@@ -41,7 +41,7 @@ $ git clone <repo url>
 
 enter in the app folder and compile:
 ```
-$ cd fake-data-generator-api/client
+$ cd mocking-api/client
 $ go build main.go
 ```
 
